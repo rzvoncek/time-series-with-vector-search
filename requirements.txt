@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+pandas
+pyarrow
+numpy
+scikit-learn
+torch
+mplfinance
+cassandra-driver==3.28.0
